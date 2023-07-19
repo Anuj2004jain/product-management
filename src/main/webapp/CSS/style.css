@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+.dv{
+	text-align:center;
+	margin-top:10px
+}
+
+.btr{
+	font-family:Garamond;
+	color: white;
+	padding:5px 15px;
+	text-decoration: none;
+	font-size:28px;
+}
+.btr:hover{
+	text-decoration-line: underline;  
+}
+.tdp{
+	font-family:Garamond;
+	color: white;
+	padding:10px;
+	text-decoration: none;
+	font-size:28px;
+}
+.tp{
+	font-family:Garamond;
+	font-size:25px;
+	width:250px;
+}
+.tar{
+	border: 2px solid black ;
+	text-align:cener;
+	width:60%;
+	 margin-top:30px;
+	 margin:auto;
+	 border-collapse:collapse;
+	 font-size:20px;
+	font-family:Garamond
+	
+	
+}
