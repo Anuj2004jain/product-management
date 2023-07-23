@@ -1,3 +1,5 @@
+# Product Management System
+
 Developed a comprehensive Product Management System utilizing Java, JSP, HTML, and CSS technologies to streamline product oversight and control within the company. 
 As the main administrator, successfully implemented functionalities allowing seamless addition, editing, and removal of products from the inventory. 
 The system offers real-time visibility into all available products, empowering data-driven decision-making and enhancing overall management efficiency.
